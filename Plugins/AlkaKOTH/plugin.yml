@@ -1,0 +1,8 @@
+name: AlkaKOTH
+author: ThisIsMac
+version: 1.0
+main: fr.thisismac.koth.Core
+commands:
+  alkakoth:
+    description: Commande principale du plugin
+    usage: /alkakoth
